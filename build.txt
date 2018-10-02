@@ -1,0 +1,16 @@
+id="plugin.program.shazamwizard"
+version="1.0"
+zip="https://www.dropbox.com/sh/8dzhn0hzhflcd3p/AADZOcM1TY8bbW2ohxIzA8Yfa?dl=1/plugin.program.shazamwizard-1.0.zip"
+
+name="Shazam Wizard"
+version="1.0"
+url="https://www.dropbox.com/sh/8dzhn0hzhflcd3p/AADZOcM1TY8bbW2ohxIzA8Yfa?dl=1/shazamwizard.zip"
+gui="http://"
+kodi="17.6"
+theme="http://"
+icon="https://"
+fanart="https://"
+preview="http://"
+adult="no"
+description="Shazam Build 1 Information"
+
